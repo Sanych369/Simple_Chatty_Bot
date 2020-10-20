@@ -1,0 +1,27 @@
+# Project exclude paths
+/.gradle/
+/Problems/Arithmetic average/out/
+/Problems/Arithmetic average/out/production/classes/
+/Problems/Assignments/out/
+/Problems/Assignments/out/production/classes/
+/Problems/Check the given numbers are different/out/
+/Problems/Check the given numbers are different/out/production/classes/
+/Problems/Collatz conjecture/out/
+/Problems/Collatz conjecture/out/production/classes/
+/Problems/Comparing strings ignoring whitespaces/out/
+/Problems/Comparing strings ignoring whitespaces/out/production/classes/
+/Problems/Profit/out/
+/Problems/Profit/out/production/classes/
+/Problems/Snail/out/
+/Problems/Snail/out/production/classes/
+/Problems/The integer barrier/out/
+/Problems/The integer barrier/out/production/classes/
+/Problems/The roots of an equation/out/
+/Problems/The roots of an equation/out/production/classes/
+/Problems/The sequence (1)/out/
+/Problems/The sequence (1)/out/production/classes/
+/Problems/The smallest value/out/
+/Problems/The smallest value/out/production/classes/
+/Simple Chatty Bot/task/build/
+/Simple Chatty Bot/task/out/
+/Simple Chatty Bot/task/out/production/classes/
